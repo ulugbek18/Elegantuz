@@ -1,0 +1,547 @@
+
+        @media only screen and (max-width:1700px) {
+            .about-section-three .image-column .author-info {
+                left: 100px
+            }
+
+            .main-header .info-btn {
+                display: none
+            }
+
+            .header-style-one .logo-box {
+                margin-right: 40px;
+                min-width: auto
+            }
+        }
+
+        @media only screen and (max-width:1439px) {
+
+            .main-header .info-btn,
+            .main-header .main-box .outer-box .theme-btn {
+                display: none
+            }
+
+            .main-menu .navigation>li {
+                margin-right: 40px
+            }
+
+            .about-section .image-column .inner-column {
+                margin-left: 0;
+                padding-right: 0
+            }
+
+            .about-section .content-column .inner-column {
+                padding-left: 0
+            }
+
+            .about-section-three .image-column .author-info {
+                left: 25%
+            }
+
+            .faqs-section .image-column .inner-column {
+                margin-left: -400px;
+                padding-right: 0
+            }
+        }
+
+        @media only screen and (max-width:1199px) {
+
+            .about-section-three .content-column .btn-box .float-icon,
+            .about-section-three .content-column .info-box,
+            .about-section-three .image-column .inner-column .anim-icons,
+            .big-ipad-hidden,
+            .feature-block .inner-box:before,
+            .testimonial-section .owl-dots {
+                display: none !important
+            }
+
+            .main-slider h1 {
+                font-size: 74px
+            }
+
+            .call-to-action .image-column .image {
+                margin-top: 0
+            }
+
+            .about-section-three .image-column .inner-column {
+                padding-right: 0
+            }
+
+            .signup-section-two .form-column .inner-column {
+                padding-left: 0
+            }
+
+            .signup-form-two form {
+                padding: 60px 30px
+            }
+
+            .about-section-two .content-column .inner-column {
+                padding-left: 0
+            }
+
+            .about-block.style-two {
+                margin-top: 0
+            }
+        }
+
+        @media only screen and (min-width:768px) {
+
+            .main-menu .navigation>li>ul,
+            .main-menu .navigation>li>ul>li>ul {
+                display: block !important;
+                opacity: 0;
+                visibility: hidden
+            }
+        }
+
+        @media only screen and (max-width:1023px) {
+            .header-style-one .logo-box {
+                margin-right: 0;
+                min-height: auto;
+                padding: 10px 20px
+            }
+
+            .main-header .main-box .outer-box {
+                padding: 0
+            }
+
+            .header-style-one .main-box {
+                padding-right: 20px
+            }
+
+            .header-style-two .contact-info-outer,
+            .header-style-two .header-lower,
+            .header-top,
+            .main-header .main-menu {
+                display: none
+            }
+
+            .main-header .logo {
+                min-width: auto
+            }
+
+            .main-header .logo img,
+            .sticky-header .logo img {
+                max-height: 45px;
+                max-width: none;
+                max-width: 100%;
+                width: auto
+            }
+
+            .mobile-nav-toggler {
+                display: block;
+                margin-left: 20px
+            }
+
+            .main-header .ui-btn {
+                font-size: 24px;
+                line-height: 35px;
+                margin-left: 15px
+            }
+
+            .main-header .main-box .nav-outer {
+                width: auto
+            }
+
+            .main-header .main-box {
+                justify-content: space-between
+            }
+
+            .main-slider h1 {
+                font-size: 72px;
+                letter-spacing: 0
+            }
+
+            .about-section .icon-paper-plan,
+            .ipad-hidden {
+                display: none !important
+            }
+
+            .signup-section .form-column .inner-column {
+                margin-left: 0
+            }
+
+            .signup-section .outer-box {
+                padding: 120px 70px
+            }
+
+            .call-to-action .image-column .image {
+                margin-left: 0;
+                margin-right: -15px
+            }
+
+            .call-to-action .title-column .sec-title {
+                text-align: center
+            }
+
+            .call-to-action .title-column .style-font {
+                margin-left: 0
+            }
+
+            .testimonial-section .sec-title h2 br {
+                display: none
+            }
+
+            .about-section-two .content-column .inner-column {
+                padding-left: 0
+            }
+
+            .about-section-two .image-column .image img {
+                width: 100%
+            }
+
+            .about-section .content-column,
+            .about-section-two .content-column {
+                order: 0 !important
+            }
+
+            .about-section .content-column .inner-column {
+                padding-top: 0
+            }
+
+            .category-block-two .title br,
+            .faqs-section .bg-image,
+            .faqs-section .image-column,
+            .video-section .video-box .float-icon {
+                display: none
+            }
+
+            .about-section-three .content-column {
+                order: 0 !important
+            }
+
+            .about-section-three .image-column .inner-column {
+                margin-left: 0
+            }
+
+            .about-section-three .image-column .inner-column .image img {
+                width: 100%
+            }
+
+            .video-section .outer-box {
+                flex-direction: column;
+                text-align: center
+            }
+
+            .video-section .video-box {
+                justify-content: center;
+                padding: 0
+            }
+
+            .signup-section-two .title-column .inner-column {
+                margin-right: 0
+            }
+
+            .signup-section-two .form-column .signup-form-two {
+                margin-top: -50px
+            }
+
+            .about-section-four .content-column .sec-title .text {
+                max-width: 100%
+            }
+
+            .about-section-four .image-column .inner-column {
+                padding-top: 0
+            }
+
+            .about-section-four .image-column .image-box {
+                margin-right: 0
+            }
+
+            .news-section-two .carousel-column .carousel-outer {
+                margin-right: -100px
+            }
+
+            .news-section-two .carousel-column .news-block {
+                padding: 10px 10px 30px
+            }
+
+            .header-style-two .header-upper .logo-box .logo {
+                padding: 10px 0
+            }
+        }
+
+        @media only screen and (max-width:767px) {
+            .main-header .main-box .outer-box .ui-btn-outer {
+                margin-left: 0
+            }
+
+            .main-slider h1 {
+                font-size: 52px;
+                line-height: 1em
+            }
+
+            .main-slider .theme-btn {
+                min-width: 150px !important;
+                padding: 10px 30px
+            }
+
+            .main-slider .text {
+                font-size: 18px;
+                line-height: 26px
+            }
+
+            .sec-title h2 {
+                font-size: 42px
+            }
+
+            .sec-title h1 {
+                font-size: 52px
+            }
+
+            .call-to-action .title-column .style-font {
+                font-size: 32px
+            }
+
+            .courses-section .courses-carousel .owl-nav,
+            .sec-title h2 br {
+                display: none
+            }
+
+            .courses-section .bottom-text .content {
+                display: block;
+                line-height: 24px;
+                padding: 20px 30px;
+                text-align: center
+            }
+
+            .courses-section .bottom-text .content strong {
+                display: block;
+                margin-bottom: 10px;
+                margin-right: 0
+            }
+
+            .courses-section .bottom-text .content .theme-btn {
+                display: block;
+                margin-left: 0;
+                margin-top: 20px
+            }
+
+            .feature-block .inner-box {
+                padding-left: 0;
+                text-align: center
+            }
+
+            .feature-block .icon {
+                display: inline-block;
+                margin-bottom: 10px;
+                position: relative
+            }
+
+            .testimonial-section .carousel-outer {
+                margin-right: -15px
+            }
+
+            .news-section-two .carousel-column .carousel-outer {
+                margin-right: 0
+            }
+
+            .about-section-three .image-column .author-info {
+                animation: none
+            }
+        }
+
+        @media only screen and (max-width:599px) {
+            .main-slider h1 {
+                font-size: 48px;
+                line-height: 1em
+            }
+
+            .main-slider .title {
+                font-size: 14px
+            }
+
+            .main-slider .text {
+                max-width: 300px
+            }
+
+            .main-slider .text br,
+            .sec-title .text br {
+                display: none
+            }
+
+            .list-style-one.two-column li {
+                width: 100%
+            }
+
+            .about-section .image-column .image-2 {
+                margin-top: 20px;
+                position: relative;
+                right: 0
+            }
+
+            .about-section .experience {
+                left: 0;
+                right: auto
+            }
+
+            .signup-section .icon-paper-clip,
+            .video-section .title-box .title br {
+                display: none
+            }
+
+            .signup-section .outer-box {
+                padding: 50px 30px
+            }
+
+            .testimonial-block .content-box {
+                padding: 55px 30px 30px
+            }
+
+            .testimonial-block .content-box .thumb {
+                height: 100px;
+                width: 120px
+            }
+
+            .testimonial-block .info-box {
+                padding-left: 0
+            }
+
+            .testimonial-block .info-box .icon-quote {
+                display: inline-block;
+                margin-bottom: 10px;
+                position: relative
+            }
+
+            .testimonial-block .content-box:before {
+                background-position: 100% 0;
+                width: 200px
+            }
+
+            .testimonial-block .content-box .text {
+                font-size: 16px;
+                line-height: 24px
+            }
+
+            .sec-title h2,
+            .video-section .title-box .title {
+                font-size: 32px
+            }
+
+            .event-block .content-box {
+                padding-left: 0;
+                padding-right: 0
+            }
+
+            .event-block .image-box {
+                margin-bottom: 20px;
+                position: relative
+            }
+
+            .about-section-four .image-column .caption-box {
+                border-radius: 0;
+                padding: 20px;
+                position: relative;
+                text-align: center
+            }
+
+            .about-section-four .image-column .caption-box .inner {
+                padding-left: 0
+            }
+
+            .about-section-four .image-column .caption-box .icon {
+                display: inline-block;
+                margin-bottom: 10px;
+                position: relative
+            }
+
+            .about-section-four .content-column .counter-info-box .inner {
+                padding-left: 0
+            }
+
+            .about-section-four .content-column .counter-info-box .count-box {
+                position: relative
+            }
+
+            .pricing-block .inner-box {
+                padding-left: 40px
+            }
+
+            .time-counter-two {
+                flex-wrap: wrap;
+                width: 100%
+            }
+
+            .time-counter-two .counter-column {
+                margin-bottom: 20px
+            }
+
+            .about-section-three .image-column .author-info {
+                left: 0;
+                padding: 25px 30px;
+                position: relative;
+                text-align: center;
+                top: 0
+            }
+
+            .about-section .image-column .image-2 img {
+                max-width: 100%
+            }
+
+            .about-section-four .content-column .counter-info-box {
+                padding: 30px
+            }
+        }
+
+        @media only screen and (max-width:424px) {
+            .main-slider h1 {
+                font-size: 32px;
+                line-height: 1em
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+.box-1{
+    width: 1200px;
+    background-color: aqua;
+    display: flex;
+}
+.left{
+    width: 300px;
+}
+
+.rasm{
+    width: 200px !important;
+    border-radius: 50% !important;
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+}
+
+.mr{
+    font-size: 28px !important;
+    text-align: center !important;
+    margin-top: 10px !important;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.ustoz{
+    text-align: center !important;
+    margin-top: -20px !important;
+}
+
+.fan{
+    font-size: 30px;
+    align-items: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
